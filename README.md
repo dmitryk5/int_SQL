@@ -1,2 +1,3 @@
-# int_SQL
-Intermediate SQL Practice
+# README 
+
+Will be available soon!
